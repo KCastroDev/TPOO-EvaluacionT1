@@ -1,4 +1,4 @@
-package ventas_en_linea;
+package com.upn.ventas_en_linea;
 
 public class Producto {
 	
